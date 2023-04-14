@@ -1,7 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
 
+import { useEffect  } from 'react';
+
 function App() {
+
+  useEffect(() => {
+    fetch('dev/news')
+    .then(res => res.json())
+    .then(res => {
+      console.log(res)
+    })
+  }, [])
+
   return (
     <div className="App">
       <header className="App-header">
