@@ -1,0 +1,2225 @@
+[
+	{
+		"url": "https://www.thesun.co.uk/money/22046572/aldi-lidl-cut-price-milk-supermarket-rivals/",
+		"authorsByline": "Ashley Armstrong",
+		"articleId": "3f85b8fd560b4c1cb912dcf9df160b8c",
+		"clusterId": "aaf0a54d51094ddf9c5bf5c0ef39ada1",
+		"source": {
+			"domain": "thesun.co.uk",
+			"paywall": false
+		},
+		"imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2023/04/crop-22047395.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+		"country": "gb",
+		"language": "en",
+		"pubDate": "2023-04-14T20:31:17+00:00",
+		"addDate": "2023-04-14T20:50:38.071172+00:00",
+		"refreshDate": "2023-04-14T20:50:38.071173+00:00",
+		"score": 1,
+		"title": "Aldi & Lidl to cut price of household essential to compete with rivals",
+		"description": "MORE supermarkets have cut milk prices to add to hope that food shop bills could fall and ease the cost of living crisis. Tesco and Sainsbury’s led the way earlier this week by lowering the cost of…",
+		"content": "MORE supermarkets have cut milk prices to add to hope that food shop bills could fall and ease the cost of living crisis.\n\nTesco and Sainsbury’s led the way earlier this week by lowering the cost of four pints by 10p to £1.55 and one pint by 5p to 90p.\n\nA... [1018 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://www.thesun.co.uk/topic/asda",
+			"https://www.thesun.co.uk/money/22017783/tesco-supermarket-price-cut-shopping/",
+			"https://www.thesun.co.uk/money/21974751/supermarkets-sold-out-cadbury-creme-eggs-asda-sainsburys-tesco/",
+			"https://www.thesun.co.uk/topic/uk-interest-rates-inflation/",
+			"https://www.thesun.co.uk/money/22037783/aldi-price-supermarket-milk-shopping/",
+			"https://www.thesun.co.uk/topic/tesco/",
+			"https://www.thesun.co.uk/topic/lidl",
+			"https://www.thesun.co.uk/topic/aldi",
+			"https://www.thesun.co.uk/topic/morrisons",
+			"https://www.thesun.co.uk/money/21791055/full-list-supermarkets-closed-easter-sunday/",
+			"https://www.thesun.co.uk/topic/sainsburys/"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "1bb49e5c2e474194ba3f3f0fa4d764c9",
+				"name": "Ashley Armstrong"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "milk prices",
+				"weight": 0.14416301
+			},
+			{
+				"name": "price",
+				"weight": 0.11508304
+			},
+			{
+				"name": "year",
+				"weight": 0.111356445
+			},
+			{
+				"name": "milk",
+				"weight": 0.10068139
+			},
+			{
+				"name": "food shop bills",
+				"weight": 0.09777384
+			},
+			{
+				"name": "food inflation",
+				"weight": 0.09562725
+			},
+			{
+				"name": "Higher farming costs",
+				"weight": 0.079130165
+			},
+			{
+				"name": "rivals",
+				"weight": 0.072423406
+			},
+			{
+				"name": "Monday",
+				"weight": 0.0714785
+			},
+			{
+				"name": "good news",
+				"weight": 0.07128365
+			}
+		],
+		"topics": [],
+		"categories": [
+			{
+				"name": "Business"
+			}
+		],
+		"entities": [
+			{
+				"data": "Aldi & Lidl",
+				"type": "ORG",
+				"mentions": 3
+			},
+			{
+				"data": "Tesco",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Sainsbury’s",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Asda",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Morrisons",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Which",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Sue Davies",
+				"type": "PERSON",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "373f05b8a4a64198b2566fbefe6bed27",
+				"name": "ALDI",
+				"domains": [
+					"aldi.com"
+				],
+				"symbols": []
+			},
+			{
+				"id": "e796ee59d2e4483386cebc83b1d3f48d",
+				"name": "Lidl",
+				"domains": [
+					"lidl.es",
+					"lidl.de",
+					"lidl.it",
+					"lidl.co.uk",
+					"lidl.com"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.22309084,
+			"negative": 0.70393634,
+			"neutral": 0.07297277
+		},
+		"summary": "Aldi and Lidl have announced that they will reduce the price of four pints of milk by 10p to £1.55 and one pint by 5p to 90p in an effort to compete with rivals. The move comes in response to rising costs of milk, which have risen by 42 per cent in the past year, and higher farming costs are blamed for the hike. Consumer group Which?, has warned not to get too excited by the dip in milk prices, as year-on-year food price inflation is almost 25 per cent at some supermarkets.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "a151704e1b864c3288af15472cd59bf5",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q1396040",
+				"name": "Sue Jones-Davies"
+			}
+		]
+	},
+	{
+		"url": "https://www.reuters.com/video/watch/idRCV00BZKO",
+		"authorsByline": "Reuters Editorial",
+		"articleId": "448b8c674b674654b3188a111bfd689f",
+		"clusterId": "29bfd9b4700347da9b2d212dc779f9df",
+		"source": {
+			"domain": "reuters.com",
+			"paywall": false
+		},
+		"imageUrl": "https://static.reuters.com/resources/r/?d=20230414&i=RCV00BZKO&r=RCV00BZKO&t=2",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T20:20:00+00:00",
+		"addDate": "2023-04-14T20:24:16.409504+00:00",
+		"refreshDate": "2023-04-14T20:24:16.409507+00:00",
+		"score": 1,
+		"title": "Breakout: Debt belief ",
+		"description": "The economist John Cochrane argues that governments ultimately determine the level of inflation. Edward Chancellor tells Peter Thal Larsen why the theory may fit the bill for an era of rising prices - and why it could be ominous for investors in sovereign bonds.",
+		"content": "The economist John Cochrane argues that governments ultimately determine the level of inflation. Edward Chancellor tells Peter Thal Larsen why the theory may fit the bill for an era of rising prices - and why it could be ominous for investors in sovereign... [262 symbols]",
+		"medium": "Video",
+		"links": [],
+		"labels": [],
+		"matchedAuthors": [],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "sovereign bonds",
+				"weight": 0.1881895
+			},
+			{
+				"name": "rising prices",
+				"weight": 0.14366736
+			},
+			{
+				"name": "inflation",
+				"weight": 0.14155608
+			},
+			{
+				"name": "Peter Thal Larsen",
+				"weight": 0.12370989
+			},
+			{
+				"name": "investors",
+				"weight": 0.113546014
+			},
+			{
+				"name": "John Cochrane",
+				"weight": 0.113508075
+			},
+			{
+				"name": "governments",
+				"weight": 0.09661346
+			},
+			{
+				"name": "Debt belief",
+				"weight": 0.08534856
+			},
+			{
+				"name": "Edward Chancellor",
+				"weight": 0.075340174
+			},
+			{
+				"name": "Breakout",
+				"weight": 0.052883282
+			}
+		],
+		"topics": [],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "John Cochrane",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Edward Chancellor",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Peter Thal Larsen",
+				"type": "PERSON",
+				"mentions": 1
+			}
+		],
+		"companies": [],
+		"sentiment": {
+			"positive": 0.06769724,
+			"negative": 0.41897,
+			"neutral": 0.5133328
+		},
+		"summary": "",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "de851b0801f64e84ba43aca3ec046a24",
+		"places": [],
+		"people": []
+	},
+	{
+		"url": "https://www.axios.com/2023/04/14/stamp-prices-inflation-forever-stamps-survey",
+		"authorsByline": "Kelly Tyko",
+		"articleId": "a1cebfa55ae443db8107679bf256adfd",
+		"clusterId": "0b17cf08f13b43d182958c87602396b7",
+		"source": {
+			"domain": "axios.com",
+			"paywall": false
+		},
+		"imageUrl": "https://images.axios.com/IbOtmG-OlYJtdzEl5Tu4YryUGB4=/0x0:1920x1080/1366x768/2023/04/14/1681494641535.jpg",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T20:00:40+00:00",
+		"addDate": "2023-04-14T20:08:44.480653+00:00",
+		"refreshDate": "2023-04-14T20:08:44.480653+00:00",
+		"score": 1,
+		"title": "Axios survey: Readers sour on snail mail over stamp inflation",
+		"description": "\"It's usually not necessary and better to be avoided.\"",
+		"content": "Hundreds of readers responded to Axios' informal survey on rising stamp prices. Many say they plan to stock up on Forever stamps before the proposed 3-cent price increase.\n\nWhy it matters: Some snail mail holdouts are increasingly opting to pay bills onli... [1436 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://www.axios.com/2023/04/12/usps-stamp-price-increase-july-2023-inflation"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "e5977f9290da4b89818c90b4cbc1aacd",
+				"name": "Kelly Tyko"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "stamp prices",
+				"weight": 0.110854916
+			},
+			{
+				"name": "small increases",
+				"weight": 0.108358495
+			},
+			{
+				"name": "rising stamp prices",
+				"weight": 0.107257776
+			},
+			{
+				"name": "Service",
+				"weight": 0.08233666
+			},
+			{
+				"name": "Daniel B.",
+				"weight": 0.080797024
+			},
+			{
+				"name": "California",
+				"weight": 0.079453774
+			},
+			{
+				"name": "style",
+				"weight": 0.077762365
+			},
+			{
+				"name": "stamp inflation",
+				"weight": 0.0763483
+			},
+			{
+				"name": "Lynn E.",
+				"weight": 0.07532868
+			},
+			{
+				"name": "Forever stamps",
+				"weight": 0.07485214
+			}
+		],
+		"topics": [
+			{
+				"name": "Inflation"
+			}
+		],
+		"categories": [
+			{
+				"name": "Tech"
+			}
+		],
+		"entities": [
+			{
+				"data": "Axios",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "the U.S. Post Office",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Facebook",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the Postal Service",
+				"type": "ORG",
+				"mentions": 3
+			},
+			{
+				"data": "Forever",
+				"type": "PRODUCT",
+				"mentions": 1
+			},
+			{
+				"data": "Mike S.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Michelle F.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Barbara J.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Christine G.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Daniel B.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Lynn E.",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Minneapolis",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Foxworth",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Mississippi",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Durham",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Maine",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Georgetown",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Indiana",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Berkeley",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "California",
+				"type": "GPE",
+				"mentions": 2
+			},
+			{
+				"data": "Sacramento",
+				"type": "GPE",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "ee1cf227f8764efea4c547de0aa279f2",
+				"name": "Axios",
+				"domains": [
+					"axios.com"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.039257683,
+			"negative": 0.20539446,
+			"neutral": 0.75534785
+		},
+		"summary": "Axios' survey of hundreds of readers responded to an informal survey on rising stamp prices, with many saying they plan to stock up on Forever stamps before the proposed 3-cent price increase. The survey found that some snail mail holdouts are opting to pay bills online or reduce the number of greeting cards and letters they send, while others are reducing their mail usage. Many readers said they thought the Postal Service should raise the price to $1 and be done with small increases. Responses were edited for style and readers expressed their thoughts on the issue.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "8a0bd1e8c9934123aaff8a3de62844a9",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q5216464",
+				"name": "Daniel B. Sparr"
+			},
+			{
+				"wikidataId": "Q4859003",
+				"name": "Barbara Desoer"
+			},
+			{
+				"wikidataId": "Q16730723",
+				"name": "Mike Kennedy"
+			}
+		]
+	},
+	{
+		"url": "https://www.cnn.com/videos/business/2023/04/14/before-the-bell-inflation-eases-orig-contd-fj.cnn-business",
+		"authorsByline": "",
+		"articleId": "2384576080d244f2944274a2f50e77f4",
+		"clusterId": "5d604fea23d84d95a96febcec93c191a",
+		"source": {
+			"domain": "cnn.com",
+			"paywall": false
+		},
+		"imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230414153344-before-the-bell-414-thumb.jpg?c=16x9&q=w_800,c_fill",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:40:06+00:00",
+		"addDate": "2023-04-14T19:58:22.792200+00:00",
+		"refreshDate": "2023-04-14T19:58:22.792201+00:00",
+		"score": 1,
+		"title": "The Fed's tough inflation medicine may be working",
+		"description": "Prices rose at a slower pace in March, indicating the Federal Reserve's efforts to tame inflation are starting to succeed. But as Christine Romans explains, banking woes still pose a threat to the economy.",
+		"content": "1. How relevant is this ad to you?\n\nAd froze or did not finish loading Video content did not start after ad Audio on ad was too loud\n\nAd was repetitive to ads I've seen previously",
+		"medium": "Video",
+		"links": [],
+		"labels": [],
+		"matchedAuthors": [],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "Ad",
+				"weight": 0.24861297
+			},
+			{
+				"name": "ad",
+				"weight": 0.24861297
+			},
+			{
+				"name": "ads",
+				"weight": 0.24861297
+			},
+			{
+				"name": "Video content",
+				"weight": 0.15540701
+			},
+			{
+				"name": "Audio",
+				"weight": 0.1281531
+			},
+			{
+				"name": "this ad",
+				"weight": 0.11482941
+			},
+			{
+				"name": "Fed",
+				"weight": 0.06301721
+			},
+			{
+				"name": "The Feds tough inflation medicine",
+				"weight": 0.06089565
+			}
+		],
+		"topics": [
+			{
+				"name": "Inflation"
+			},
+			{
+				"name": "Markets"
+			},
+			{
+				"name": "Federal Reserve"
+			}
+		],
+		"categories": [
+			{
+				"name": "Business"
+			}
+		],
+		"entities": [
+			{
+				"data": "Fed",
+				"type": "ORG",
+				"mentions": 1
+			}
+		],
+		"companies": [],
+		"sentiment": {
+			"positive": 0.029339293,
+			"negative": 0.27085507,
+			"neutral": 0.6998056
+		},
+		"summary": "",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "4924a4e6f0ff4db79e911a6be191b058",
+		"places": [],
+		"people": []
+	},
+	{
+		"url": "https://www.cnbc.com/2023/04/14/next-weeks-stock-market-moves-hinge-on-the-longer-term-outlook-for-earnings.html",
+		"authorsByline": "Scott Schnipper",
+		"articleId": "f9e8adc720eb4176aa7e24f13eb4f550",
+		"clusterId": "25337a96491f47b086fffa92514e0559",
+		"source": {
+			"domain": "cnbc.com",
+			"paywall": false
+		},
+		"imageUrl": "https://image.cnbcfm.com/api/v1/image/107217823-1680189191302-gettyimages-1249879533-US_STOCKS.jpeg?v=1681500639&w=1920&h=1080",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:30:39+00:00",
+		"addDate": "2023-04-14T19:36:21.063494+00:00",
+		"refreshDate": "2023-04-14T19:36:21.063495+00:00",
+		"score": 1,
+		"title": "Next week's stock market moves hinge on the longer-term outlook for earnings",
+		"description": "First quarter numbers that will flood the market next week are largely baked into current stock prices and the pain trade is to the upside, one analyst said.",
+		"content": "Next week's market action could be dictated by how well the latest quarterly reports from corporate America are received. Six times as many companies in the S & P 500 report first quarter earnings — and, perhaps more critically, may issue second quarter o... [6671 symbols]",
+		"medium": "Article",
+		"links": [],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": null,
+				"name": "Scott Schnipper"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "first quarter earnings",
+				"weight": 0.08278069
+			},
+			{
+				"name": "first quarter results",
+				"weight": 0.08049194
+			},
+			{
+				"name": "first quarter",
+				"weight": 0.07423662
+			},
+			{
+				"name": "second quarter outlooks",
+				"weight": 0.068571955
+			},
+			{
+				"name": "second quarter",
+				"weight": 0.066899076
+			},
+			{
+				"name": "Verdence Capital Management chief investment officer Megan Horneman",
+				"weight": 0.065368645
+			},
+			{
+				"name": "ET",
+				"weight": 0.06479737
+			},
+			{
+				"name": "Next week",
+				"weight": 0.06091082
+			},
+			{
+				"name": "next week",
+				"weight": 0.06091082
+			},
+			{
+				"name": "April",
+				"weight": 0.059341792
+			}
+		],
+		"topics": [
+			{
+				"name": "Markets"
+			}
+		],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "America",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Hunt Valley",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Maryland",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Charles Schwab",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "State Street",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "M & T Bank",
+				"type": "ORG",
+				"mentions": 8
+			},
+			{
+				"data": "Procter & Gamble",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Schlumberger",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Refinitiv",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Signature Bank",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Goldman Sachs",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Morgan Stanley",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Verdence Capital Management",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Tesla",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "IBM",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Lam Research",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "F5",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Horneman",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "JPMorgan",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "CFRA",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Fed",
+				"type": "ORG",
+				"mentions": 6
+			},
+			{
+				"data": "Empire State",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "J.B. Hunt Transport",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Johnson & Johnson",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Netflix",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "United Airlines",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Western Alliance",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Interactive Brokers",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "New York University",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Travelers Cos.",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "U.S. Bancorp",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Abbott Laboratories",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Baker Hughes",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Alcoa",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "American Express",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "D.R. Horton",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "AutoNation",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Blackstone",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Truist Financial",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Comerica",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Taiwan Semiconductor",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Huntington Bancshares",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "CSX",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Seagate Technology",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "S & P Global U.S.",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Freeport-McMoRan",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Regions Financial",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "CNBC",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Megan Horneman",
+				"type": "PERSON",
+				"mentions": 3
+			},
+			{
+				"data": "Sam Stovall",
+				"type": "PERSON",
+				"mentions": 4
+			},
+			{
+				"data": "Dubravko Lakos-Bujas",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "John Williams",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "Patrick Harker",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "Jeff Hirsch",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Alexander Harring",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Sarah Min",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Robert Hum",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Michael Bloom",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Fred Imbert",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "the Stock Trader's Almanac",
+				"type": "WORK_OF_ART",
+				"mentions": 1
+			},
+			{
+				"data": "8:30 a.m. ET",
+				"type": "TIME",
+				"mentions": 7
+			},
+			{
+				"data": "7:45 p.m. ET",
+				"type": "TIME",
+				"mentions": 2
+			}
+		],
+		"companies": [
+			{
+				"id": "c89b49487624491d8f46288946ae293f",
+				"name": "The Goldman Sachs Group, Inc.",
+				"domains": [
+					"goldmansachs.com"
+				],
+				"symbols": [
+					"GS",
+					"GS-PA",
+					"GS-PD",
+					"GS-PJ",
+					"GS-PK",
+					"GS.SW",
+					"GOS.DE"
+				]
+			},
+			{
+				"id": "01606065176a437188b1178d9e43ef12",
+				"name": "CSX Corporation",
+				"domains": [
+					"csx.com"
+				],
+				"symbols": [
+					"0HRJ.L",
+					"CSX"
+				]
+			},
+			{
+				"id": "ab7955cd7a204ca19de9553a7a47df69",
+				"name": "F5, Inc.",
+				"domains": [
+					"f5.com"
+				],
+				"symbols": [
+					"0IL6.L",
+					"FFIV",
+					"FFV.DE"
+				]
+			},
+			{
+				"id": "2865c2b163354e9b86cafa32740d5cc4",
+				"name": "U.S. Bancorp",
+				"domains": [
+					"usbank.com"
+				],
+				"symbols": [
+					"0LHY.L",
+					"UB5.DE",
+					"USB",
+					"USB-PH",
+					"USB-PM",
+					"USB-PP",
+					"USB-PQ",
+					"USB-PR"
+				]
+			},
+			{
+				"id": "eed0aaf48f744ff294faf74a64a2cee5",
+				"name": "The Procter & Gamble Company",
+				"domains": [
+					"pginvestor.com"
+				],
+				"symbols": [
+					"PG",
+					"PRG.DE"
+				]
+			},
+			{
+				"id": "45127e2727be4438a3b7a1733bfec140",
+				"name": "Comerica Incorporated",
+				"domains": [
+					"comerica.com"
+				],
+				"symbols": [
+					"0I1P.L",
+					"CMA"
+				]
+			},
+			{
+				"id": "d0b4d5b8a6c64db9a124a819caab3166",
+				"name": "Seagate Technology Holdings plc",
+				"domains": [
+					"seagate.com"
+				],
+				"symbols": [
+					"0Y2A.L",
+					"STX"
+				]
+			},
+			{
+				"id": "daed1dcac5454e2d9fb8f09c71a1f5f0",
+				"name": "State Street Corporation",
+				"domains": [
+					"statestreet.com"
+				],
+				"symbols": [
+					"0L9G.L",
+					"STT",
+					"STT-PD",
+					"STT-PG"
+				]
+			},
+			{
+				"id": "203ad72c17484c45a35d03578c0ca94c",
+				"name": "Lam Research Corporation",
+				"domains": [
+					"lamresearch.com"
+				],
+				"symbols": [
+					"0JT5.L",
+					"LRCX",
+					"LAR.DE"
+				]
+			},
+			{
+				"id": "f30ebedfd452478dbf6d560b19d79222",
+				"name": "Truist Financial Corporation",
+				"domains": [
+					"truist.com"
+				],
+				"symbols": [
+					"TFC",
+					"TFC-PI",
+					"TFC-PO",
+					"TFC-PR"
+				]
+			},
+			{
+				"id": "9a8d8e8b89b747efb46b54a851b9ea25",
+				"name": "IBM Global Services",
+				"domains": [
+					"www-05.ibm.com"
+				],
+				"symbols": []
+			},
+			{
+				"id": "5039e21476e241cf916bbd2a1a07b31c",
+				"name": "AT&T Inc.",
+				"domains": [
+					"att.com"
+				],
+				"symbols": [
+					"SOBA.DE",
+					"T",
+					"T-PA",
+					"T-PC"
+				]
+			},
+			{
+				"id": "f0dfb8871f684f398c6161ab472c7c2c",
+				"name": "JPMorgan Chase & Co.",
+				"domains": [
+					"jpmorganchase.com"
+				],
+				"symbols": [
+					"CMC.DE",
+					"JPM",
+					"JPM-PC",
+					"JPM-PD",
+					"JPM-PJ",
+					"JPM-PK",
+					"JPM-PL",
+					"JPM-PM"
+				]
+			},
+			{
+				"id": "4a361ff3de1545828f9f8a3ba450ceb3",
+				"name": "Bank of America Corporation",
+				"domains": [
+					"bankofamerica.com"
+				],
+				"symbols": [
+					"BAC",
+					"BAC-PB",
+					"BAC-PE",
+					"BAC-PK",
+					"BAC-PL",
+					"BAC-PM",
+					"BAC-PN",
+					"BAC-PO",
+					"BAC-PP",
+					"BAC-PQ",
+					"BAC-PS",
+					"BAC.SW",
+					"BML-PG",
+					"BML-PH",
+					"BML-PJ",
+					"BML-PL",
+					"NCB.DE"
+				]
+			},
+			{
+				"id": "3678ede07ae94be19c0790a2ce0e8eaa",
+				"name": "M&T Bank Corporation",
+				"domains": [
+					"www3.mtb.com"
+				],
+				"symbols": [
+					"MTB"
+				]
+			},
+			{
+				"id": "f1c0c46616a9473ba2eabe54857bfdc8",
+				"name": "Signature Bank",
+				"domains": [
+					"signatureny.com"
+				],
+				"symbols": [
+					"SBNY",
+					"SBNYP"
+				]
+			},
+			{
+				"id": "10c704c44f814dfc89b0bed63c3714ca",
+				"name": "Empire State Realty OP, L.P.",
+				"domains": [
+					"empirestaterealtytrust.com"
+				],
+				"symbols": [
+					"ESBA",
+					"FISK",
+					"OGCP"
+				]
+			},
+			{
+				"id": "adfc99bab9854429bbaecfd0e6ad3de0",
+				"name": "Schlumberger Limited",
+				"domains": [
+					"slb.com"
+				],
+				"symbols": [
+					"SLB",
+					"SLB.PA"
+				]
+			},
+			{
+				"id": "655443389e954570a59088b30e1b3602",
+				"name": "Johnson & Johnson",
+				"domains": [
+					"jnj.com"
+				],
+				"symbols": [
+					"JNJ",
+					"JNJ.DE",
+					"JNJ.SW"
+				]
+			},
+			{
+				"id": "727f485585e1410fb563a9dade2271d6",
+				"name": "D.R. Horton, Inc.",
+				"domains": [
+					"drhorton.com"
+				],
+				"symbols": [
+					"0I6K.L",
+					"DHI"
+				]
+			},
+			{
+				"id": "c85664cd32444006a02cde1a1f432a6c",
+				"name": "AutoNation, Inc.",
+				"domains": [
+					"autonation.com"
+				],
+				"symbols": [
+					"AN"
+				]
+			},
+			{
+				"id": "df4c445fd3d04d7d8d7d1e2bd9eb4855",
+				"name": "The Charles Schwab Corporation",
+				"domains": [
+					"schwab.com"
+				],
+				"symbols": [
+					"0L3I.L",
+					"SCHW",
+					"SCHW-PD",
+					"SCHW-PJ"
+				]
+			},
+			{
+				"id": "0ddb867a9a154995ba037b29840ef17d",
+				"name": "The Fed",
+				"domains": [
+					"the-fed.net"
+				],
+				"symbols": []
+			},
+			{
+				"id": "ea19855571614d73abd2e50af82debd4",
+				"name": "American Express Company",
+				"domains": [
+					"americanexpress.com"
+				],
+				"symbols": [
+					"0R3C.L",
+					"AEC1.DE",
+					"AXP"
+				]
+			}
+		],
+		"sentiment": {
+			"positive": 0.01086358,
+			"negative": 0.97219515,
+			"neutral": 0.016941255
+		},
+		"summary": "Next week's stock market moves could be dictated by the quarterly reports from corporate America, which are expected to be released next week. Analysts are expecting that S & P 500 earnings will fall 5.2% in the first quarter, followed by a 4% decline in the second quarter. The outlook is darker still for mid- and small-cap stocks, with midcap profits to narrow by 19.3% and smallcap earnings tumble by 23.5%. However, JPMorgan thinks the stock market's profit problem isn't so much a short-term issue as it is one oriented around the back half of the year. Investors may hear more next week about whether the job cuts already enacted in the tech sector have helped companies meet their targets or whether still more layoffs are needed.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "87fe548fde0a452eb7deb8f6e678ba3b",
+		"places": [],
+		"people": []
+	},
+	{
+		"url": "https://www.forbes.com/sites/shelleykohan/2023/04/14/retailers-face-headwinds-in-2023-as-consumer-spending-slows/",
+		"authorsByline": "Shelley E. Kohan",
+		"articleId": "dd410f9f2e4f4311b8eb59f1e525022a",
+		"clusterId": "e08efdfa62334e8aa2d8eda88d930963",
+		"source": {
+			"domain": "forbes.com",
+			"paywall": true
+		},
+		"imageUrl": "https://imageio.forbes.com/specials-images/imageserve/64398e9516896d3f4463fd78/0x0.jpg?format=jpg&width=1200",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:26:48+00:00",
+		"addDate": "2023-04-14T19:34:09.547484+00:00",
+		"refreshDate": "2023-04-14T19:34:09.547485+00:00",
+		"score": 1,
+		"title": "Retailers Face Headwinds In 2023 As Consumer Spending Slows",
+		"description": "The retail industry may be facing the most challenging year since the pandemic, as consumer spending begins to slow in 2023 and as other factors, like rising interest rates, increased wages, and the higher cost of goods continue to plague companies.",
+		"content": "The retail industry may be facing the most challenging year since the pandemic, as consumer spending begins to slow in 2023 and other factors, like rising interest rates, increased wages, and the higher cost of goods, continue to plague companies. Consume... [3940 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://www.forbes.com/sites/tylerroush/2023/04/14/here-are-all-the-states-banning-or-restricting-gender-affirming-care/",
+			"https://www.forbes.com/sites/forbesdigitalcovers/2018/07/12/why-the-rocks-social-media-muscle-made-him-hollywoods-highest-paid-actor/",
+			"https://www.businessoffashion.com/articles/retail/interest-rates-fashion-2023/",
+			"https://www.forbes.com/sites/petersuciu/2023/04/14/parler-vows-to-be-more-than-twitter-clone-for-conservatives/"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "2fbc66a6b30f40a1a540d9efdbbbf8db",
+				"name": "Shelley E. Kohan"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "home improvement",
+				"weight": 0.098853745
+			},
+			{
+				"name": "higher interest rates",
+				"weight": 0.096682474
+			},
+			{
+				"name": "department stores",
+				"weight": 0.0901942
+			},
+			{
+				"name": "higher living costs",
+				"weight": 0.0889672
+			},
+			{
+				"name": "Higher prices",
+				"weight": 0.0867338
+			},
+			{
+				"name": "higher prices",
+				"weight": 0.0867338
+			},
+			{
+				"name": "interest rates",
+				"weight": 0.07933058
+			},
+			{
+				"name": "rising interest rates",
+				"weight": 0.07812802
+			},
+			{
+				"name": "Consumer Spending",
+				"weight": 0.077810615
+			},
+			{
+				"name": "consumer spending",
+				"weight": 0.077810615
+			}
+		],
+		"topics": [
+			{
+				"name": "Markets"
+			}
+		],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "the Federal Reserve’s",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "U.S.",
+				"type": "GPE",
+				"mentions": 1
+			}
+		],
+		"companies": [],
+		"sentiment": {
+			"positive": 0.054694682,
+			"negative": 0.9305268,
+			"neutral": 0.01477849
+		},
+		"summary": "The retail industry may be facing the most challenging year since the pandemic, as consumer spending begins to slow in 2023. Consumers are squeezed by higher living costs, making them more cautious and surgical with purchasing decisions, resulting in less discretionary spending. Retail sales for March were down 1%, compared to February, reflecting a slow-down in consumer spending as expected. Nonstore sales were higher than last month’s, with the most significant declines in discount stores, department stores, and home improvement. Consumer price index (CPI) up 0.1% in March after increasing 0.4% in February, but inflation for the year remains high. The Federal Reserve recently set its benchmark rate, which determines borrowing costs across the U.S. economy, at 4.75 percent to 5 percent, with another quarter-percentage-point increase expected in May. Retailers must face decisions in the near future on how to fund a growing business if interest rates and product costs are higher.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "8c0faf2bd7514a23a3356a41ea5c9d43",
+		"places": [],
+		"people": []
+	},
+	{
+		"url": "https://patch.com/michigan/across-mi/epa-auto-emissions-proposal-aims-spur-michigan-ev-sales",
+		"authorsByline": "Shannon Antinori",
+		"articleId": "b02fc758b28442298d31e38231f9aaa6",
+		"clusterId": "e9fc345712784136bb66f471552f3ba2",
+		"source": {
+			"domain": "patch.com",
+			"paywall": false
+		},
+		"imageUrl": "https://patch.com/img/cdn20/users/73761/20230414/031606/styles/patch_image/public/electric-vehicle-charging-station-shutterstock-156219776___14151544573.jpg",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:22:05+00:00",
+		"addDate": "2023-04-14T20:37:43.186074+00:00",
+		"refreshDate": "2023-04-14T20:37:43.186074+00:00",
+		"score": 1,
+		"title": "EPA Auto Emissions Proposal Aims To Spur Michigan EV Sales",
+		"description": "More than 17,460 electric vehicles were registered in Michigan in 2021.",
+		"content": "The proposed tailpipe emission limits for model years 2027 through 2032, announced Wednesday by the Environmental Protection Agency, are the strictest ever proposed, and call for more EV sales than the auto industry agreed to less than two years ago. U.S.... [4746 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://patch.com/michigan/across-mi/business",
+			"https://apnews.com/article/electric-vehicles-tax-credit-7500-c562cb2d3509e93dc81d3b7d395725af",
+			"https://patch.com/subscribe",
+			"https://afdc.energy.gov/data/10962",
+			"https://patch.com/us/across-america/4-10-say-next-vehicle-will-be-electric-ap-norc-epic-poll",
+			"https://apnews.com/article/technology-science-congress-climate-and-environment-f084d23d61ebb068068d4aa92c82fdbb",
+			"https://www.eia.gov/environment/emissions/state/",
+			"https://www.epa.gov/ghgemissions/overview-greenhouse-gases#:~:text=Carbon%20Dioxide%20Emissions&text=Carbon%20dioxide%20(CO2)%20is,gas%20emissions%20from%20human%20activities."
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "391563df036b4101900cf16f2208c68c",
+				"name": "Shannon Antinori"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "electric vehicle sales",
+				"weight": 0.099741094
+			},
+			{
+				"name": "U.S. vehicle sales",
+				"weight": 0.0946986
+			},
+			{
+				"name": "electric vehicles",
+				"weight": 0.09439023
+			},
+			{
+				"name": "new vehicle sales",
+				"weight": 0.09141366
+			},
+			{
+				"name": "total U.S. greenhouse gas emissions",
+				"weight": 0.09121539
+			},
+			{
+				"name": "fewer new electric vehicles",
+				"weight": 0.09093735
+			},
+			{
+				"name": "greenhouse gas emissions",
+				"weight": 0.09027925
+			},
+			{
+				"name": "model years",
+				"weight": 0.08747
+			},
+			{
+				"name": "last year",
+				"weight": 0.085883774
+			},
+			{
+				"name": "total U.S. CO2 emissions",
+				"weight": 0.08183872
+			}
+		],
+		"topics": [
+			{
+				"name": "ESG"
+			},
+			{
+				"name": "Michigan"
+			},
+			{
+				"name": "Climate Change"
+			}
+		],
+		"categories": [
+			{
+				"name": "Auto"
+			},
+			{
+				"name": "Environment"
+			}
+		],
+		"entities": [
+			{
+				"data": "EPA",
+				"type": "ORG",
+				"mentions": 9
+			},
+			{
+				"data": "the Environmental Protection Agency",
+				"type": "ORG",
+				"mentions": 4
+			},
+			{
+				"data": "the Department of Energy’s",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "National Renewable Energy Laboratory",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the U.S. Energy Administration",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the Energy Policy Institute",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the University of Chicago",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "White House",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Michigan",
+				"type": "GPE",
+				"mentions": 3
+			},
+			{
+				"data": "U.S.",
+				"type": "GPE",
+				"mentions": 6
+			},
+			{
+				"data": "the United States",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "America",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Joe Biden",
+				"type": "PERSON",
+				"mentions": 3
+			},
+			{
+				"data": "Michael Regan",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Ali Zaidi",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "John Bozzella",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "Americans",
+				"type": "NORP",
+				"mentions": 1
+			},
+			{
+				"data": "Inflation Reduction Act",
+				"type": "LAW",
+				"mentions": 1
+			},
+			{
+				"data": "North America",
+				"type": "LOC",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "dd7c446f0a094815aa46f254ade60df5",
+				"name": "United States Environmental Protection Agency",
+				"domains": [
+					"epa.gov"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.15224211,
+			"negative": 0.05516201,
+			"neutral": 0.79259586
+		},
+		"summary": "The Environmental Protection Agency has proposed a proposed tailpipe emission limit for model years 2027 through 2032, the strictest ever proposed. The proposal does not require a specific number of electric vehicles be sold every year, instead mandating limits on greenhouse gasses. U.S. car buyers registered more than 1.45 million electric vehicles in the calendar year ending Dec. 31, 2021, according to the latest data available from the Department of Energy’s National Renewable Energy Laboratory. The EPA projects at least 60 percent of new passenger vehicles sold in the United States would be electric by 2030 and up to 67 percent by 2032. The proposed standards are expected to reduce greenhouse gas emissions by 56 percent from existing standards for the model year 2026, and 46 percent will be new vehicle sales in 2032. The proposal is expected to be finalized next year, and includes tax credits for EV manufacturing and purchases included in the sweeping Inflation Reduction Act passed last year.",
+		"translation": "",
+		"locations": [
+			{
+				"country": "us",
+				"state": "MI",
+				"city": "Detroit",
+				"area": "Across Michigan"
+			}
+		],
+		"reprint": false,
+		"reprintGroupId": "87d55b81ea2c4d2eb8039202045fb399",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q6279",
+				"name": "Joe Biden"
+			},
+			{
+				"wikidataId": "Q16732585",
+				"name": "Mike Regan"
+			}
+		]
+	},
+	{
+		"url": "https://patch.com/illinois/across-il/epa-auto-emissions-proposal-aims-spur-illinois-ev-sales",
+		"authorsByline": "Shannon Antinori",
+		"articleId": "3934147ce74d48f2bb10fb9b22c76e58",
+		"clusterId": "e9fc345712784136bb66f471552f3ba2",
+		"source": {
+			"domain": "patch.com",
+			"paywall": false
+		},
+		"imageUrl": "https://patch.com/img/cdn20/users/73761/20230414/031606/styles/patch_image/public/electric-vehicle-charging-station-shutterstock-156219776___14151544573.jpg",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:16:27+00:00",
+		"addDate": "2023-04-14T19:22:00.033240+00:00",
+		"refreshDate": "2023-04-14T19:22:00.033240+00:00",
+		"score": 1,
+		"title": "EPA Auto Emissions Proposal Aims To Spur Illinois EV Sales",
+		"description": "More than 36,520 electric vehicles were registered in Illinois in 2021.",
+		"content": "The proposed tailpipe emission limits for model years 2027 through 2032, announced Wednesday by the Environmental Protection Agency, are the strictest ever proposed, and call for more EV sales than the auto industry agreed to less than two years ago. U.S.... [4802 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://patch.com/illinois/joliet/pritzker-joliet-gets-lion-electric-auto-manufacturing-plant",
+			"https://www.epa.gov/ghgemissions/overview-greenhouse-gases#:~:text=Carbon%20Dioxide%20Emissions&text=Carbon%20dioxide%20(CO2)%20is,gas%20emissions%20from%20human%20activities.",
+			"https://apnews.com/article/electric-vehicles-tax-credit-7500-c562cb2d3509e93dc81d3b7d395725af",
+			"https://www.eia.gov/environment/emissions/state/",
+			"https://afdc.energy.gov/data/10962",
+			"https://apnews.com/article/technology-science-congress-climate-and-environment-f084d23d61ebb068068d4aa92c82fdbb",
+			"https://patch.com/subscribe",
+			"https://patch.com/illinois/across-il/business",
+			"https://patch.com/us/across-america/4-10-say-next-vehicle-will-be-electric-ap-norc-epic-poll",
+			"https://patch.com/illinois/deerfield/deerfield-installs-electric-vehicle-charging-stations"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "391563df036b4101900cf16f2208c68c",
+				"name": "Shannon Antinori"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "electric vehicle sales",
+				"weight": 0.09845081
+			},
+			{
+				"name": "U.S. vehicle sales",
+				"weight": 0.09388909
+			},
+			{
+				"name": "electric vehicles",
+				"weight": 0.092781805
+			},
+			{
+				"name": "total U.S. greenhouse gas emissions",
+				"weight": 0.09057848
+			},
+			{
+				"name": "new vehicle sales",
+				"weight": 0.09056044
+			},
+			{
+				"name": "fewer new electric vehicles",
+				"weight": 0.08954867
+			},
+			{
+				"name": "greenhouse gas emissions",
+				"weight": 0.089533255
+			},
+			{
+				"name": "model years",
+				"weight": 0.08499513
+			},
+			{
+				"name": "last year",
+				"weight": 0.08382642
+			},
+			{
+				"name": "total U.S. CO2 emissions",
+				"weight": 0.081515774
+			}
+		],
+		"topics": [
+			{
+				"name": "Illinois"
+			},
+			{
+				"name": "ESG"
+			},
+			{
+				"name": "Climate Change"
+			}
+		],
+		"categories": [
+			{
+				"name": "Environment"
+			},
+			{
+				"name": "Auto"
+			}
+		],
+		"entities": [
+			{
+				"data": "EPA",
+				"type": "ORG",
+				"mentions": 9
+			},
+			{
+				"data": "the Environmental Protection Agency",
+				"type": "ORG",
+				"mentions": 4
+			},
+			{
+				"data": "the Department of Energy’s",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "National Renewable Energy Laboratory",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "the Energy Policy Institute",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the University of Chicago",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "White House",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Zaidi",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Illinois",
+				"type": "GPE",
+				"mentions": 2
+			},
+			{
+				"data": "U.S.",
+				"type": "GPE",
+				"mentions": 7
+			},
+			{
+				"data": "the United States",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "America",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Joe Biden",
+				"type": "PERSON",
+				"mentions": 4
+			},
+			{
+				"data": "Michael Regan",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Ali Zaidi",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "John Bozzella",
+				"type": "PERSON",
+				"mentions": 2
+			},
+			{
+				"data": "Americans",
+				"type": "NORP",
+				"mentions": 1
+			},
+			{
+				"data": "Inflation Reduction Act",
+				"type": "LAW",
+				"mentions": 1
+			},
+			{
+				"data": "North America",
+				"type": "LOC",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "dd7c446f0a094815aa46f254ade60df5",
+				"name": "United States Environmental Protection Agency",
+				"domains": [
+					"epa.gov"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.114486784,
+			"negative": 0.060168494,
+			"neutral": 0.8253447
+		},
+		"summary": "The Environmental Protection Agency has proposed a proposed tailpipe emission limit for model years 2027 through 2032, the strictest ever proposed. The proposal does not require a specific number of electric vehicles be sold every year, instead mandating limits on greenhouse gasses. The EPA projects at least 60 percent of new passenger vehicles sold in the United States would be electric by 2030 and up to 67 percent by 2032. The proposed standards are expected to reduce greenhouse gas emissions by 56 percent from existing standards for the model year 2026, and improve air quality for communities across the nation, avoiding nearly 10 billion tons of carbon dioxide emissions, more than twice the total U.S. CO2 emissions last year. The White House and its allies said the proposal would help reach the tougher requirements, including stricter pollution rules, tax credits for EV manufacturing and purchases. The Alliance for Automotive Innovation, a trade group representing automakers, called the proposal “aggressive by any measure” and wrote that it remains enough to support electric vehicle sales.",
+		"translation": "",
+		"locations": [
+			{
+				"country": "us",
+				"state": "IL",
+				"city": "Chicago",
+				"area": "Across Illinois"
+			}
+		],
+		"reprint": false,
+		"reprintGroupId": "895516992c1148e09b94fa7d98039fac",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q16732585",
+				"name": "Mike Regan"
+			},
+			{
+				"wikidataId": "Q6279",
+				"name": "Joe Biden"
+			}
+		]
+	},
+	{
+		"url": "https://finance.yahoo.com/news/argentinas-inflation-rate-hits-7-190221594.html",
+		"authorsByline": "Reuters",
+		"articleId": "73ad8fd0e94d4aebaa0271884f8c3f9b",
+		"clusterId": "4019305a7a914eb0b5cb22ad604b3039",
+		"source": {
+			"domain": "finance.yahoo.com"
+		},
+		"imageUrl": "",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T19:02:21+00:00",
+		"addDate": "2023-04-14T19:15:48.444221+00:00",
+		"refreshDate": "2023-04-14T19:15:48.444223+00:00",
+		"score": 1,
+		"title": "Argentina's inflation rate hits 7.7% in March",
+		"description": "Argentina's monthly inflation rate stood at 7.7% in March, according to data from the country's statistics agency released Friday. Inflation in the 12 months through March hit 104.3%, as surging consumer prices sap wages and savings.",
+		"content": "BUENOS AIRES, April 14 (Reuters) - Argentina's monthly inflation rate stood at 7.7% in March, according to data from the country's statistics agency released Friday.\n\nInflation in the 12 months through March hit 104.3%, as surging consumer prices sap wage... [359 symbols]",
+		"medium": "Article",
+		"links": [],
+		"labels": [],
+		"matchedAuthors": [],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "Brendan OBoyle",
+				"weight": 0.14371088
+			},
+			{
+				"name": "Friday",
+				"weight": 0.13110627
+			},
+			{
+				"name": "savings",
+				"weight": 0.12334287
+			},
+			{
+				"name": "surging consumer prices",
+				"weight": 0.12052497
+			},
+			{
+				"name": "March",
+				"weight": 0.10653734
+			},
+			{
+				"name": "wages",
+				"weight": 0.096135244
+			},
+			{
+				"name": "data",
+				"weight": 0.085847765
+			},
+			{
+				"name": "Inflation",
+				"weight": 0.07988624
+			},
+			{
+				"name": "Argentinas monthly inflation rate",
+				"weight": 0.0775271
+			},
+			{
+				"name": "Hernan Nessi",
+				"weight": 0.07481522
+			}
+		],
+		"topics": [
+			{
+				"name": "Inflation"
+			},
+			{
+				"name": "Argentina"
+			}
+		],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "Argentina",
+				"type": "GPE",
+				"mentions": 2
+			},
+			{
+				"data": "BUENOS AIRES",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "Reuters",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Hernan Nessi",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Aida Pelaez-Fernandez",
+				"type": "PERSON",
+				"mentions": 1
+			},
+			{
+				"data": "Brendan O'Boyle",
+				"type": "PERSON",
+				"mentions": 1
+			}
+		],
+		"companies": [],
+		"sentiment": {
+			"positive": 0.022297114,
+			"negative": 0.8548634,
+			"neutral": 0.12283946
+		},
+		"summary": "Argentina's monthly inflation rate stood at 7.7% in March, according to data from the country's statistics agency released Friday. Inflation in the 12 months through March, inflation in the same period hit 104.3%, as surging consumer prices sap wages and savings.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "6e92c97271054c649481e6ba1f69dbf7",
+		"places": [],
+		"people": []
+	},
+	{
+		"url": "https://www.cnn.com/2023/04/14/economy/janet-yellen-fareed-zakaria/index.html",
+		"authorsByline": "Alicia Wallace",
+		"articleId": "5521ee7b7a6644689bf01913b9db7d55",
+		"clusterId": "59ac5697bc204b47b9e833b7bb665cb0",
+		"source": {
+			"domain": "cnn.com",
+			"paywall": false
+		},
+		"imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230414120038-01-fareed-zakaria-janet-yellen-interview-0414-screenshot.jpg?c=16x9&q=w_800,c_fill",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T18:58:31+00:00",
+		"addDate": "2023-04-14T19:04:58.318881+00:00",
+		"refreshDate": "2023-04-14T19:04:58.318882+00:00",
+		"score": 1,
+		"title": "Yellen to CNN: Despite banking crisis, soft landing still possible",
+		"description": "Last month's upheaval within the banking sector hasn't pushed America off course from achieving a soft landing, US Treasury Secretary Janet Yellen told CNN's Fareed Zakaria in an exclusive interview Friday.",
+		"content": "Last month’s upheaval within the banking sector hasn’t pushed America off course from achieving a soft landing, US Treasury Secretary Janet Yellen told CNN’s Fareed Zakaria in an exclusive interview Friday.\n\n“I do think there’s a path to bring down inflat... [2773 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://www.cnn.com/2023/04/11/business/imf-world-economic-outlook/index.html",
+			"https://www.cnn.com/2023/03/27/business/fdic-announces-first-citizens-purchase-silicon-valley-bank/index.html",
+			"https://www.cnn.com/2023/04/07/economy/march-jobs-report-final/index.html",
+			"https://www.cnn.com/2023/01/16/economy/supply-chain-outlook-2023/index.html",
+			"https://www.cnn.com/2023/04/12/economy/cpi-inflation-march/index.html",
+			"https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-14-23/index.html",
+			"https://www.cnn.com/2021/10/01/business/auto-sales-third-quarter/index.html",
+			"https://www.cnn.com/2023/04/11/economy/janet-yellen-comments-imf-spring-meeting/index.html",
+			"https://www.cnn.com/2023/03/19/investing/fdic-signature-bank-assets-flagstar-hnk-intl/index.html",
+			"https://www.cnn.com/2023/03/12/investing/svb-customer-bailout/index.html",
+			"https://www.cnn.com/2023/03/15/economy/fed-priority-cooling-economy-financial-stability/index.html",
+			"https://www.cnn.com/2023/04/12/economy/fed-march-minutes-banking-crisis/index.html",
+			"https://www.cnn.com/2023/01/02/economy/recession-or-soft-landing-in-2023/index.html"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "d31d0c461c3a4fee8810071c9aecc4f4",
+				"name": "Alicia Wallace"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "US Treasury Secretary Janet Yellen",
+				"weight": 0.09282372
+			},
+			{
+				"name": "Treasury Secretary Janet Yellen",
+				"weight": 0.08454338
+			},
+			{
+				"name": "inflation",
+				"weight": 0.07332609
+			},
+			{
+				"name": "future bank runs",
+				"weight": 0.072790965
+			},
+			{
+				"name": "Janet Yellen",
+				"weight": 0.07258297
+			},
+			{
+				"name": "additional bank collapses",
+				"weight": 0.07099015
+			},
+			{
+				"name": "bank customers",
+				"weight": 0.07067464
+			},
+			{
+				"name": "US economic data",
+				"weight": 0.06817166
+			},
+			{
+				"name": "US",
+				"weight": 0.06588733
+			},
+			{
+				"name": "Yellen",
+				"weight": 0.065618046
+			}
+		],
+		"topics": [
+			{
+				"name": "Economy"
+			}
+		],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "Yellen",
+				"type": "PERSON",
+				"mentions": 7
+			},
+			{
+				"data": "Fareed Zakaria",
+				"type": "PERSON",
+				"mentions": 4
+			},
+			{
+				"data": "CNN",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Treasury",
+				"type": "ORG",
+				"mentions": 4
+			},
+			{
+				"data": "Silicon Valley Bank",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Signature Bank",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the Federal Reserve",
+				"type": "ORG",
+				"mentions": 3
+			},
+			{
+				"data": "IMF",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "America",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "US",
+				"type": "GPE",
+				"mentions": 8
+			},
+			{
+				"data": "Ukraine",
+				"type": "GPE",
+				"mentions": 3
+			},
+			{
+				"data": "Russian",
+				"type": "NORP",
+				"mentions": 1
+			},
+			{
+				"data": "Fareed Zakaria GPS",
+				"type": "WORK_OF_ART",
+				"mentions": 1
+			},
+			{
+				"data": "10 a.m. ET",
+				"type": "TIME",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "f1c0c46616a9473ba2eabe54857bfdc8",
+				"name": "Signature Bank",
+				"domains": [
+					"signatureny.com"
+				],
+				"symbols": [
+					"SBNY",
+					"SBNYP"
+				]
+			},
+			{
+				"id": "52f2695ce83640e9827dd1015066d95b",
+				"name": "Federal Reserve System",
+				"domains": [
+					"federalreserve.gov"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.058998227,
+			"negative": 0.8435876,
+			"neutral": 0.09741423
+		},
+		"summary": "US Treasury Secretary Janet Yellen has said that the banking sector's upheaval hasn't pushed America off course from achieving a soft landing, despite recent economic data showing cooling in areas such as inflation and consumer spending. She also discussed the potential for additional bank collapses as well as possible aftershocks that could tip the US economy into a recession while the Fed is starting to slow its historic rate-hiking campaign to bring down inflation. Yellen's interview with Fareed Zakaria came near the end of a jam-packed week of meetings, public appearances and speeches for the Treasury secretary in conjunction with the IMF-World Bank Spring Meetings, where Ukraine was a key focus.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "bf2052ab18ff40e582dd4b35d3145f7b",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q263725",
+				"name": "Janet Yellen"
+			}
+		]
+	}
+]
