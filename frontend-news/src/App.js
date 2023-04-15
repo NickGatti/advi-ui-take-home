@@ -1,34 +1,29 @@
-import logo from './logo.svg';
+import { useState, useEffect  } from 'react'
+
+import NewsCards from './components/newsCard/NewsCards'
+
 import './App.css';
 
-import { useEffect  } from 'react';
-
 function App() {
+  const [news, setNews] = useState([])
 
   useEffect(() => {
+    //USE FOR DEV
     fetch('dev/news')
     .then(res => res.json())
     .then(res => {
-      console.log(res)
+      setNews(res)
     })
   }, [])
 
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Artichoke News</h1>
       </header>
+      <section className='cardSection'>
+        <NewsCards news={news} />
+      </section>
     </div>
   );
 }
