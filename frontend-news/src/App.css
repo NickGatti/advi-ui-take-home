@@ -39,7 +39,7 @@
   word-break: break-all;
   background-color: inherit;
   width: auto;
-  height: auto;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;

@@ -2,7 +2,7 @@
 
 ## Installiation
 > Go to `\frontend-news` run the command: `npm i`
-> Go to `\backend-news` run he command: `npm i`
+> Go to `\backend-news` run the command: `npm i`
 
 ### Server notes
 > The server has a static folder hosted with the react-app production build

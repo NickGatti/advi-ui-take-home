@@ -18,7 +18,7 @@ function App() {
     .then(res => {
       if (Array.isArray(res) && res.length > 0) {
         setNews(res)
-        console.log('Welcome!')
+        console.log('Welcome!!!')
       } else {
         console.error('Error on 200 line 20 App.js')
       }
@@ -38,26 +38,16 @@ function App() {
       setNextDisabled(false)
     }
 
-    setPage(news.map(ele => ele).splice(currentPageNumber - 1, (currentPageNumber - 1) + 5))
+    setPage(news.map(ele => ele).splice(currentPageNumber - 1, currentPageNumber + 4))
   }, [currentPageNumber, news])
 
   const handleBack = () => {
-    if (currentPageNumber === 1) {
-      setBackDisabled(true)
-      return
-    }
     if (currentPageNumber !== 1 || currentPageNumber > 1) {
-      setNextDisabled(false)
       setCurrentPageNumber(currentPageNumber - 5)
     }
   }
 
   const handleNext = () => {
-    if (currentPageNumber + 4 > news.length || currentPageNumber + 4 === news.length) {
-      setNextDisabled(true)
-      return
-    }
-    setBackDisabled(false)
     setCurrentPageNumber(currentPageNumber + 5)
   }
 
