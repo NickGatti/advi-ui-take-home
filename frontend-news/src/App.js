@@ -18,10 +18,11 @@ function App() {
     .then(res => {
       if (Array.isArray(res) && res.length > 0) {
         setNews(res)
+        console.log('Welcome!')
       } else {
         console.error('Error on 200 line 20 App.js')
       }
-    })
+    }).catch(console.error)
   }, [])
 
   useEffect(() => {
