@@ -1,6 +1,13 @@
 import { useEffect } from "react"
 
-const NewsCard = ({ article } ) => {
+const NewsCard = ({ article: {
+    title,
+    pubDate,
+    sentiment,
+    url,
+    summary,
+    imageUrl,
+} } ) => {
 
     useEffect(() => {
         //console.log('article', article)
@@ -27,12 +34,12 @@ const NewsCard = ({ article } ) => {
     return (
         <div className='card'>
             <div className='divider'>
-                <h4>{article.title}</h4>
-                <p>{Date(article.pubDate).toString()}</p>
-                {/* <p>{article.sentiment}</p> */}
-                <p>{article.url}</p>
+                <h4>{title}</h4>
+                <p>{Date(pubDate).toString()}</p>
+                {/* <p>{sentiment}</p> */}
+                <p>{url}</p>
             </div>
-            <img className='cardImage' src={article.imageUrl} alt={article.summary} />
+            <img className='cardImage' src={imageUrl} alt={summary} />
         </div>
     )
 }

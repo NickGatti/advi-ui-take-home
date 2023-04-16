@@ -66,7 +66,7 @@ function App() {
         <h1>Artichoke News</h1>
       </header>
       <section className='cardSection'>
-      {/* NEXT UP PAGINATE THE ARTICLES */}
+      {/* NEXT UP FILTER THE ARTICLES */}
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
         <button className='button' onClick={handleBack} disabled={backDisabled}>Back</button>
         <button className='button' onClick={handleNext} disabled={nextDisabled}>Next</button>
