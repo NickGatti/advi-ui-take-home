@@ -24,6 +24,8 @@
 }
 
 .cardContainer {
+  justify-self: center;
+  align-self: center;
   background-color: inherit;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(calc(240px + 2vmin), 1fr));
@@ -36,7 +38,8 @@
 .card {
   word-break: break-all;
   background-color: inherit;
-  max-width: 240px;
+  width: auto;
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -56,4 +59,9 @@
 .cardImage {
   background-color: inherit;
   max-width: 240px;
+}
+
+.button {
+  padding: 1rem 2rem;
+  margin: 0 2rem;
 }

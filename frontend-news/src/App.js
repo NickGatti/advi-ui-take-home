@@ -6,15 +6,59 @@ import './App.css';
 
 function App() {
   const [news, setNews] = useState([])
+  const [page, setPage] = useState([])
+  const [backDisabled, setBackDisabled] = useState(true)
+  const [nextDisabled, setNextDisabled] = useState(false)
+  const [currentPageNumber, setCurrentPageNumber] = useState(1)
 
   useEffect(() => {
     //USE FOR DEV
     fetch('dev/news')
     .then(res => res.json())
     .then(res => {
-      setNews(res)
+      if (Array.isArray(res) && res.length > 0) {
+        setNews(res)
+      } else {
+        console.error('Error on 200 line 20 App.js')
+      }
     })
   }, [])
+
+  useEffect(() => {
+    if (currentPageNumber <= 1) {
+      setBackDisabled(true)
+    } else {
+      setBackDisabled(false)
+    }
+
+    if (Array.isArray(news) && news.length > 0 && currentPageNumber + 4 >= news.length) {
+      setNextDisabled(true)
+    } else {
+      setNextDisabled(false)
+    }
+
+    setPage(news.map(ele => ele).splice(currentPageNumber - 1, (currentPageNumber - 1) + 5))
+  }, [currentPageNumber, news])
+
+  const handleBack = () => {
+    if (currentPageNumber === 1) {
+      setBackDisabled(true)
+      return
+    }
+    if (currentPageNumber !== 1 || currentPageNumber > 1) {
+      setNextDisabled(false)
+      setCurrentPageNumber(currentPageNumber - 5)
+    }
+  }
+
+  const handleNext = () => {
+    if (currentPageNumber + 4 > news.length || currentPageNumber + 4 === news.length) {
+      setNextDisabled(true)
+      return
+    }
+    setBackDisabled(false)
+    setCurrentPageNumber(currentPageNumber + 5)
+  }
 
   return (
     <div className="App">
@@ -22,7 +66,10 @@ function App() {
         <h1>Artichoke News</h1>
       </header>
       <section className='cardSection'>
-        <NewsCards news={news} />
+      {/* NEXT UP PAGINATE THE ARTICLES */}
+        {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
+        <button className='button' onClick={handleBack} disabled={backDisabled}>Back</button>
+        <button className='button' onClick={handleNext} disabled={nextDisabled}>Next</button>
       </section>
     </div>
   );

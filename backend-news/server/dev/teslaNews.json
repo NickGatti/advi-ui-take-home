@@ -2221,5 +2221,212 @@
 				"name": "Janet Yellen"
 			}
 		]
+	},
+    {
+		"url": "https://www.HELLLLLLLLLLLLOOOOOOOOOOOOOOOOOO.com/2023/04/14/economy/janet-yellen-fareed-zakaria/index.html",
+		"authorsByline": "Alicia Wallace",
+		"articleId": "5521ee7b7a6644689bf01913b9db7d55",
+		"clusterId": "59ac5697bc204b47b9e833b7bb665cb0",
+		"source": {
+			"domain": "cnn.com",
+			"paywall": false
+		},
+		"imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230414120038-01-fareed-zakaria-janet-yellen-interview-0414-screenshot.jpg?c=16x9&q=w_800,c_fill",
+		"country": "us",
+		"language": "en",
+		"pubDate": "2023-04-14T18:58:31+00:00",
+		"addDate": "2023-04-14T19:04:58.318881+00:00",
+		"refreshDate": "2023-04-14T19:04:58.318882+00:00",
+		"score": 1,
+		"title": "Yellen to CNN: Despite banking crisis, soft landing still possible",
+		"description": "Last month's upheaval within the banking sector hasn't pushed America off course from achieving a soft landing, US Treasury Secretary Janet Yellen told CNN's Fareed Zakaria in an exclusive interview Friday.",
+		"content": "Last month’s upheaval within the banking sector hasn’t pushed America off course from achieving a soft landing, US Treasury Secretary Janet Yellen told CNN’s Fareed Zakaria in an exclusive interview Friday.\n\n“I do think there’s a path to bring down inflat... [2773 symbols]",
+		"medium": "Article",
+		"links": [
+			"https://www.cnn.com/2023/04/11/business/imf-world-economic-outlook/index.html",
+			"https://www.cnn.com/2023/03/27/business/fdic-announces-first-citizens-purchase-silicon-valley-bank/index.html",
+			"https://www.cnn.com/2023/04/07/economy/march-jobs-report-final/index.html",
+			"https://www.cnn.com/2023/01/16/economy/supply-chain-outlook-2023/index.html",
+			"https://www.cnn.com/2023/04/12/economy/cpi-inflation-march/index.html",
+			"https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-14-23/index.html",
+			"https://www.cnn.com/2021/10/01/business/auto-sales-third-quarter/index.html",
+			"https://www.cnn.com/2023/04/11/economy/janet-yellen-comments-imf-spring-meeting/index.html",
+			"https://www.cnn.com/2023/03/19/investing/fdic-signature-bank-assets-flagstar-hnk-intl/index.html",
+			"https://www.cnn.com/2023/03/12/investing/svb-customer-bailout/index.html",
+			"https://www.cnn.com/2023/03/15/economy/fed-priority-cooling-economy-financial-stability/index.html",
+			"https://www.cnn.com/2023/04/12/economy/fed-march-minutes-banking-crisis/index.html",
+			"https://www.cnn.com/2023/01/02/economy/recession-or-soft-landing-in-2023/index.html"
+		],
+		"labels": [],
+		"matchedAuthors": [
+			{
+				"id": "d31d0c461c3a4fee8810071c9aecc4f4",
+				"name": "Alicia Wallace"
+			}
+		],
+		"claim": "",
+		"verdict": "",
+		"keywords": [
+			{
+				"name": "US Treasury Secretary Janet Yellen",
+				"weight": 0.09282372
+			},
+			{
+				"name": "Treasury Secretary Janet Yellen",
+				"weight": 0.08454338
+			},
+			{
+				"name": "inflation",
+				"weight": 0.07332609
+			},
+			{
+				"name": "future bank runs",
+				"weight": 0.072790965
+			},
+			{
+				"name": "Janet Yellen",
+				"weight": 0.07258297
+			},
+			{
+				"name": "additional bank collapses",
+				"weight": 0.07099015
+			},
+			{
+				"name": "bank customers",
+				"weight": 0.07067464
+			},
+			{
+				"name": "US economic data",
+				"weight": 0.06817166
+			},
+			{
+				"name": "US",
+				"weight": 0.06588733
+			},
+			{
+				"name": "Yellen",
+				"weight": 0.065618046
+			}
+		],
+		"topics": [
+			{
+				"name": "Economy"
+			}
+		],
+		"categories": [
+			{
+				"name": "Finance"
+			}
+		],
+		"entities": [
+			{
+				"data": "Yellen",
+				"type": "PERSON",
+				"mentions": 7
+			},
+			{
+				"data": "Fareed Zakaria",
+				"type": "PERSON",
+				"mentions": 4
+			},
+			{
+				"data": "CNN",
+				"type": "ORG",
+				"mentions": 2
+			},
+			{
+				"data": "Treasury",
+				"type": "ORG",
+				"mentions": 4
+			},
+			{
+				"data": "Silicon Valley Bank",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "Signature Bank",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "the Federal Reserve",
+				"type": "ORG",
+				"mentions": 3
+			},
+			{
+				"data": "IMF",
+				"type": "ORG",
+				"mentions": 1
+			},
+			{
+				"data": "America",
+				"type": "GPE",
+				"mentions": 1
+			},
+			{
+				"data": "US",
+				"type": "GPE",
+				"mentions": 8
+			},
+			{
+				"data": "Ukraine",
+				"type": "GPE",
+				"mentions": 3
+			},
+			{
+				"data": "Russian",
+				"type": "NORP",
+				"mentions": 1
+			},
+			{
+				"data": "Fareed Zakaria GPS",
+				"type": "WORK_OF_ART",
+				"mentions": 1
+			},
+			{
+				"data": "10 a.m. ET",
+				"type": "TIME",
+				"mentions": 1
+			}
+		],
+		"companies": [
+			{
+				"id": "f1c0c46616a9473ba2eabe54857bfdc8",
+				"name": "Signature Bank",
+				"domains": [
+					"signatureny.com"
+				],
+				"symbols": [
+					"SBNY",
+					"SBNYP"
+				]
+			},
+			{
+				"id": "52f2695ce83640e9827dd1015066d95b",
+				"name": "Federal Reserve System",
+				"domains": [
+					"federalreserve.gov"
+				],
+				"symbols": []
+			}
+		],
+		"sentiment": {
+			"positive": 0.058998227,
+			"negative": 0.8435876,
+			"neutral": 0.09741423
+		},
+		"summary": "US Treasury Secretary Janet Yellen has said that the banking sector's upheaval hasn't pushed America off course from achieving a soft landing, despite recent economic data showing cooling in areas such as inflation and consumer spending. She also discussed the potential for additional bank collapses as well as possible aftershocks that could tip the US economy into a recession while the Fed is starting to slow its historic rate-hiking campaign to bring down inflation. Yellen's interview with Fareed Zakaria came near the end of a jam-packed week of meetings, public appearances and speeches for the Treasury secretary in conjunction with the IMF-World Bank Spring Meetings, where Ukraine was a key focus.",
+		"translation": "",
+		"locations": [],
+		"reprint": false,
+		"reprintGroupId": "bf2052ab18ff40e582dd4b35d3145f7b",
+		"places": [],
+		"people": [
+			{
+				"wikidataId": "Q263725",
+				"name": "Janet Yellen"
+			}
+		]
 	}
 ]
