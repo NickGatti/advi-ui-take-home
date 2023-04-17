@@ -2,6 +2,7 @@ import { useState, useEffect  } from 'react'
 
 import NewsCards from './components/newsCard/NewsCards'
 import Button from './components/Button'
+import Categories from './components/categories/Categories'
 
 import './App.css';
 
@@ -9,7 +10,7 @@ function App() {
   const [news, setNews] = useState([])
   const [page, setPage] = useState([])
   const [categories, setCategories] = useState([])
-  const [currentCategory, setCurrentCategory] = useState('')
+  const [currentCategories, setCurrentCategories] = useState([])
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
   const [sortByPopularity, setSortByPopularity] = useState(true)
@@ -96,6 +97,7 @@ function App() {
       {/* NEXT UP FILTER THE ARTICLES */}
         <Button click={handleSortByPopularity}>By popularity { sortByPopularity ? '↓' : '↑'}</Button>
         <Button click={handleSortByDate}>By date { sortByDate ? '↓' : '↑'}</Button>
+        <Categories categories={categories} />
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
         <Button click={handleBack} disabled={backDisabled}>Back</Button>
         <Button click={handleNext} disabled={nextDisabled}>Next</Button>
