@@ -1,6 +1,7 @@
 import { useState, useEffect  } from 'react'
 
 import NewsCards from './components/newsCard/NewsCards'
+import Button from './components/Button'
 
 import './App.css';
 
@@ -12,7 +13,7 @@ function App() {
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
   const [sortByPopularity, setSortByPopularity] = useState(true)
-  const [sortByDate, setSortByDate] = useState(true)
+  const [sortByDate, setSortByDate] = useState(false)
   const [currentPageNumber, setCurrentPageNumber] = useState(1)
 
   useEffect(() => {
@@ -93,12 +94,11 @@ function App() {
       </header>
       <section className='cardSection'>
       {/* NEXT UP FILTER THE ARTICLES */}
-        <button className='button' onClick={handleSortByPopularity} >By popularity { sortByPopularity ? '↓' : '↑'}</button>
-        <button className='button' onClick={handleSortByDate} >By date { sortByDate ? '↓' : '↑'}</button>
-        
+        <Button click={handleSortByPopularity}>By popularity { sortByPopularity ? '↓' : '↑'}</Button>
+        <Button click={handleSortByDate}>By date { sortByDate ? '↓' : '↑'}</Button>
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
-        <button className='button' onClick={handleBack} disabled={backDisabled}>Back</button>
-        <button className='button' onClick={handleNext} disabled={nextDisabled}>Next</button>
+        <Button click={handleBack} disabled={backDisabled}>Back</Button>
+        <Button click={handleNext} disabled={nextDisabled}>Next</Button>
       </section>
     </div>
   );
