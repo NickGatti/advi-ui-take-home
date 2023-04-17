@@ -7,9 +7,12 @@ import './App.css';
 function App() {
   const [news, setNews] = useState([])
   const [page, setPage] = useState([])
+  const [categories, setCategories] = useState([])
+  const [currentCategory, setCurrentCategory] = useState('')
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
   const [sortByPopularity, setSortByPopularity] = useState(true)
+  const [sortByDate, setSortByDate] = useState(true)
   const [currentPageNumber, setCurrentPageNumber] = useState(1)
 
   useEffect(() => {
@@ -27,7 +30,6 @@ function App() {
   }, [])
 
   useEffect(() => {
-    console.log(news)
     if (currentPageNumber <= 1) {
       setBackDisabled(true)
     } else {
@@ -41,6 +43,17 @@ function App() {
     }
 
     setPage(news.map(ele => ele).splice(currentPageNumber - 1, currentPageNumber + 4))
+
+    const categorieOutput = []
+    for (let i = 0; i < news.length; i++) {
+      for (let z = 0; z < news[i].categories.length; z++) {
+        if (!categorieOutput.includes(news[i].categories[z].name)) {
+          categorieOutput.push(news[i].categories[z].name)
+        }
+      }
+    }
+
+    setCategories(categorieOutput)
   }, [currentPageNumber, news])
 
   const handleBack = () => {
@@ -63,6 +76,16 @@ function App() {
     }
   }
 
+  const handleSortByDate = () => {
+    if (sortByDate) {
+      setSortByDate(false)
+      setNews([...news].sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate)))
+    } else {
+      setSortByDate(true)
+      setNews([...news].sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate)))
+    }    
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -71,7 +94,8 @@ function App() {
       <section className='cardSection'>
       {/* NEXT UP FILTER THE ARTICLES */}
         <button className='button' onClick={handleSortByPopularity} >By popularity { sortByPopularity ? '↓' : '↑'}</button>
-        {/* <button className='button' onClick={handleSortByDate} >By date</button> */}
+        <button className='button' onClick={handleSortByDate} >By date { sortByDate ? '↓' : '↑'}</button>
+        
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
         <button className='button' onClick={handleBack} disabled={backDisabled}>Back</button>
         <button className='button' onClick={handleNext} disabled={nextDisabled}>Next</button>

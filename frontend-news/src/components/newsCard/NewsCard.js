@@ -10,7 +10,7 @@ const NewsCard = ({ article: {
 } } ) => {
 
     useEffect(() => {
-        console.log('sentiment', sentiment)
+        // console.log('sentiment', sentiment)
     }, [])
 
     /*
@@ -35,7 +35,7 @@ const NewsCard = ({ article: {
         <div className='card'>
             <div className='divider'>
                 <h4>{title}</h4>
-                <p>{Date(pubDate).toString()}</p>
+                <p>{new Date(pubDate).toString()}</p>
                 {/* <p>{sentiment}</p> */}
                 <p>{url}</p>
             </div>
