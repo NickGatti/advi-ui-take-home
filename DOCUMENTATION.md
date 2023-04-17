@@ -16,9 +16,9 @@
 I am using both Windows and Linux for dev. Which will explain the forward and backward slashes in the documentation.
 
 ## Simple testing
-> To run only the react app in "frontend-news" run the command: `npm start` in `\frontend-news`
+> To run only the react app in "frontend-news" run the command: `npm start` in `\frontend-news` then nagivate to [React App](http://localhost:3000/) `http://localhost:3000/`
 
-> To run only the server in "backend-news" run the command: `node server/server.js` in `\backend-news`
+> To run only the server in "backend-news" run the command: `node server/server.js` in `\backend-news` then nagivate to [React App](http://localhost:3000/) `http://localhost:3000/`
 
 ## Dev mode
 > To run just the server with `nodemon` run the command: `npx nodemon server/server.js` in `\backend-news`
