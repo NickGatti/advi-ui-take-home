@@ -10,7 +10,7 @@ const NewsCard = ({ article: {
 } } ) => {
 
     useEffect(() => {
-        //console.log('article', article)
+        console.log('sentiment', sentiment)
     }, [])
 
     /*

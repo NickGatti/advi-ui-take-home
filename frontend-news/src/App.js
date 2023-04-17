@@ -9,6 +9,7 @@ function App() {
   const [page, setPage] = useState([])
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
+  const [sortByPopularity, setSortByPopularity] = useState(true)
   const [currentPageNumber, setCurrentPageNumber] = useState(1)
 
   useEffect(() => {
@@ -26,6 +27,7 @@ function App() {
   }, [])
 
   useEffect(() => {
+    console.log(news)
     if (currentPageNumber <= 1) {
       setBackDisabled(true)
     } else {
@@ -51,6 +53,16 @@ function App() {
     setCurrentPageNumber(currentPageNumber + 5)
   }
 
+  const handleSortByPopularity = () => {
+    if (sortByPopularity) {
+      setSortByPopularity(false)
+      setNews([...news].sort((a, b) => b.sentiment.positive - a.sentiment.positive))
+    } else {
+      setSortByPopularity(true)
+      setNews([...news].sort((a, b) => a.sentiment.positive - b.sentiment.positive))
+    }
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -58,6 +70,8 @@ function App() {
       </header>
       <section className='cardSection'>
       {/* NEXT UP FILTER THE ARTICLES */}
+        <button className='button' onClick={handleSortByPopularity} >By popularity { sortByPopularity ? '↓' : '↑'}</button>
+        {/* <button className='button' onClick={handleSortByDate} >By date</button> */}
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
         <button className='button' onClick={handleBack} disabled={backDisabled}>Back</button>
         <button className='button' onClick={handleNext} disabled={nextDisabled}>Next</button>
