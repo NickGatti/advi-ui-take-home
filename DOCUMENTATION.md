@@ -11,7 +11,7 @@
 ### General notes
 > Windows uses backslashes for directories `\`
 
-> Linux etc.. distros use forward slashes for directories `\`
+> Linux etc.. distros use forward slashes for directories `/`
 
 I am using both Windows and Linux for dev. Which will explain the forward and backward slashes in the documentation.
 
