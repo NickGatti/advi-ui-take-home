@@ -119,8 +119,10 @@ function App() {
         <Button click={handleSortByDate}>By date { sortByDate ? '↓' : '↑'}</Button>
         <Categories categories={categories} checkedCategories={checkedCategories} setCheckedCategories={setCheckedCategories} />
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
-        <Button click={handleBack} disabled={backDisabled}>Back</Button>
-        <Button click={handleNext} disabled={nextDisabled}>Next</Button>
+        <div className='backNextButtonContainer'>
+          <Button click={handleBack} disabled={backDisabled}>Back</Button>
+          <Button click={handleNext} disabled={nextDisabled}>Next</Button>
+        </div>
       </section>
     </div>
   );

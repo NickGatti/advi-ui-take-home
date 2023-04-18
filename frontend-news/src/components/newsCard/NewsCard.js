@@ -20,7 +20,7 @@ const NewsCard = ({ article: {
             let newUrl = reducedUrl
             setReducedUrl(newUrl.slice(0, 72) + '...')
         }
-    }, [summary, reducedSummary, url, reducedUrl])
+    }, [])
 
     /*
     { 
