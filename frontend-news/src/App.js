@@ -8,14 +8,15 @@ import './App.css';
 
 function App() {
   const [news, setNews] = useState([])
+  const [filteredNews, setFilteredNews] = useState([])
   const [page, setPage] = useState([])
   const [categories, setCategories] = useState([])
-  const [currentCategories, setCurrentCategories] = useState([])
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
   const [sortByPopularity, setSortByPopularity] = useState(true)
   const [sortByDate, setSortByDate] = useState(false)
   const [currentPageNumber, setCurrentPageNumber] = useState(1)
+  const [checkedCategories, setCheckedCategories] = useState([])
 
   useEffect(() => {
     //USE FOR DEV
@@ -38,14 +39,16 @@ function App() {
       setBackDisabled(false)
     }
 
-    if (Array.isArray(news) && news.length > 0 && currentPageNumber + 4 >= news.length) {
+    if (Array.isArray(filteredNews) && filteredNews.length > 0 && currentPageNumber + 4 >= filteredNews.length) {
       setNextDisabled(true)
     } else {
       setNextDisabled(false)
     }
 
-    setPage(news.map(ele => ele).splice(currentPageNumber - 1, currentPageNumber + 4))
+    setPage(filteredNews.map(ele => ele).splice(currentPageNumber - 1, currentPageNumber + 4))
+  }, [currentPageNumber, filteredNews, news])
 
+  useEffect(() => {
     const categorieOutput = []
     for (let i = 0; i < news.length; i++) {
       for (let z = 0; z < news[i].categories.length; z++) {
@@ -56,7 +59,24 @@ function App() {
     }
 
     setCategories(categorieOutput)
-  }, [currentPageNumber, news])
+  }, [news])
+
+  useEffect(() => {
+    setCheckedCategories([...categories])
+  }, [categories])
+
+  useEffect(() => {
+    setFilteredNews([...news.filter(article => {
+      const articleCategories = article.categories.map(ele => ele.name)
+      
+      for (let i = 0; i < checkedCategories.length; i++) {
+        if (articleCategories.includes(checkedCategories[i])) {
+          return true
+        }
+      }
+      return false
+    })])
+  }, [checkedCategories])
 
   const handleBack = () => {
     if (currentPageNumber !== 1 || currentPageNumber > 1) {
@@ -94,10 +114,10 @@ function App() {
         <h1>Artichoke News</h1>
       </header>
       <section className='cardSection'>
-      {/* NEXT UP FILTER THE ARTICLES */}
+      {/* NEXT UP CLEAN UP CARDS, CLEAN CSS, BETTER CSS, REFACTOR CODE */}
         <Button click={handleSortByPopularity}>By popularity { sortByPopularity ? '↓' : '↑'}</Button>
         <Button click={handleSortByDate}>By date { sortByDate ? '↓' : '↑'}</Button>
-        <Categories categories={categories} />
+        <Categories categories={categories} checkedCategories={checkedCategories} setCheckedCategories={setCheckedCategories} />
         {page && Array.isArray(page) ? <NewsCards news={page}/> : null}
         <Button click={handleBack} disabled={backDisabled}>Back</Button>
         <Button click={handleNext} disabled={nextDisabled}>Next</Button>

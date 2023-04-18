@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: azure;
 }
 
 .App-link {
@@ -64,4 +64,20 @@
 .button {
   padding: 1rem 2rem;
   margin: 0 2rem;
+}
+
+.categories {
+  color: azure;
+}
+
+.checkBox {
+  color: azure;
+}
+
+label {
+  color: azure;
+}
+
+.categoryLabels {
+  color: azure;
 }
