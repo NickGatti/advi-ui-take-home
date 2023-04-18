@@ -13,7 +13,7 @@ function App() {
   const [categories, setCategories] = useState([])
   const [backDisabled, setBackDisabled] = useState(true)
   const [nextDisabled, setNextDisabled] = useState(false)
-  const [sortByPopularity, setSortByPopularity] = useState(true)
+  const [sortByPopularity, setSortByPopularity] = useState(false)
   const [sortByDate, setSortByDate] = useState(false)
   const [currentPageNumber, setCurrentPageNumber] = useState(1)
   const [checkedCategories, setCheckedCategories] = useState([])
@@ -114,7 +114,7 @@ function App() {
         <h1>Artichoke News</h1>
       </header>
       <section className='cardSection'>
-      {/* NEXT UP CLEAN UP CARDS, CLEAN CSS, BETTER CSS, REFACTOR CODE */}
+      {/* NEXT UP CLEAN UP CARD, REFACTOR CODE, CLEAN CSS, BETTER CSS */}
         <Button click={handleSortByPopularity}>By popularity { sortByPopularity ? '↓' : '↑'}</Button>
         <Button click={handleSortByDate}>By date { sortByDate ? '↓' : '↑'}</Button>
         <Categories categories={categories} checkedCategories={checkedCategories} setCheckedCategories={setCheckedCategories} />
