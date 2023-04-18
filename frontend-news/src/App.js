@@ -4,16 +4,35 @@ import './App.css';
 
 import NewsCardSection from './components/newsCard/NewsCardSection';
 
+
 function App() {
   const [news, setNews] = useState([])
 
+  // useEffect(() => {
+  //   //USE FOR DEV
+  //   fetch('dev/news')
+  //     .then(res => res.json())
+  //     .then(res => {
+  //       console.log(res)
+  //       if (Array.isArray(res) && res.length > 0) {
+  //         setNews(res)
+  //         console.log('Welcome!!!')
+  //       } else {
+  //         console.error('Error on 200 line 20 App.js')
+  //       }
+  //     }).catch(console.error)
+  // }, [])
+
   useEffect(() => {
     //USE FOR DEV
-    fetch('dev/news')
-      .then(res => res.json())
+    fetch('https://api.goperigon.com/v1/all?apiKey=3ed563b6-40ba-481c-a717-8a9fcae60c8f&q="Elon Musk"')
       .then(res => {
-        if (Array.isArray(res) && res.length > 0) {
-          setNews(res)
+        return res.json()
+      })
+      .then(({articles}) => {
+        console.log(articles)
+        if (Array.isArray(articles) && articles.length > 0) {
+          setNews(articles)
           console.log('Welcome!!!')
         } else {
           console.error('Error on 200 line 20 App.js')

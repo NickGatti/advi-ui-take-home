@@ -3,7 +3,6 @@ import { useEffect, useState } from "react"
 const NewsCard = ({ article: {
     title,
     pubDate,
-    sentiment,
     url = '',
     summary = '',
     imageUrl,

@@ -57,6 +57,10 @@ const NewsCardSection = ({ news, setNews }) => {
                     return true
                 }
             }
+
+            if (article.categories.length === 0) {
+                return true
+            }
             return false
         })])
     }, [checkedCategories])
