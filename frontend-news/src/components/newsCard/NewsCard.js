@@ -33,13 +33,15 @@ const NewsCard = ({ article: {
 
     return (
         <div className='card'>
-            <div className='divider'>
-                <h4>{title}</h4>
-                <p>{new Date(pubDate).toString()}</p>
-                {/* <p>{sentiment}</p> */}
-                <p>{url}</p>
+            <div className="cardPadding">
+                <div className='divider'>
+                    <h4 className="cardTitle">{title}</h4>
+                    <p className="cardDate">{new Date(pubDate).toString()}</p>
+                    {summary ? <p className="cardSummary">{summary}</p> : null}
+                    <a className="cardAnchor" href={url}>{url}</a>
+                </div>
+                <img className='cardImage' src={imageUrl} alt={title} />
             </div>
-            <img className='cardImage' src={imageUrl} alt={summary} />
         </div>
     )
 }

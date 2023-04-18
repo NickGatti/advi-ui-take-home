@@ -8,7 +8,7 @@ const Categories = ({categories, checkedCategories, setCheckedCategories}) => {
     })
 
     return (
-        <fieldset>
+        <fieldset className="categoriesFieldset">
             <legend className="categories">Categories:</legend>
             {categoryCheckBoxes}
         </fieldset>

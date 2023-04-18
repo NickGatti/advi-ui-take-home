@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0.5rem;
+  background-color: #202020;
+}
+
 .App {
   text-align: center;
 }
@@ -17,6 +26,15 @@
   color: #61dafb;
 }
 
+a {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .cardSection {
   background-color: #282c34;
   padding-bottom: 10rem;
@@ -29,36 +47,59 @@
   background-color: inherit;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(calc(240px + 2vmin), 1fr));
+  gap: 2rem;
   color: azure;
   grid-gap: 1rem;
   align-items: center;
-  padding: 2rem;
 }
 
 .card {
+  margin: 0 auto;
   word-break: break-all;
   background-color: inherit;
   width: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   border: 1px solid black;
-  padding: 1.25rem;
+}
+
+.cardPadding {
+  padding: 1rem;
 }
 
 .divider {
   background-color: inherit;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
 }
 
 .cardImage {
+  margin-top: 1rem;
   background-color: inherit;
   max-width: 240px;
+}
+
+.cardTitle {
+
+}
+
+.cardDate {
+
+}
+
+.cardSummary {
+
+}
+
+.cardAnchor {
+
+}
+
+.cardImage {
+
 }
 
 .button {
@@ -68,6 +109,10 @@
 
 .categories {
   color: azure;
+}
+
+.categoriesFieldset {
+  margin-bottom: 2rem;
 }
 
 .checkBox {
