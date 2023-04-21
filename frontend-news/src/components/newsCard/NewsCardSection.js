@@ -18,8 +18,8 @@ const NewsCardSection = ({ news, setNews }) => {
     useEffect(() => {
         const categoryOutput = []
         for (let i = 0; i < news.length; i++) {
-            if (news[i].categories.length === 0) {
-                categoryOutput.push('*uncategorized*')
+            if (news[i].categories.length === 0 && !categoryOutput.includes('*Uncategorized*')) {
+                categoryOutput.push('*Uncategorized*')
             } else {
                 for (let z = 0; z < news[i].categories.length; z++) {
                     if (!categoryOutput.includes(news[i].categories[z].name)) {
@@ -53,6 +53,7 @@ const NewsCardSection = ({ news, setNews }) => {
     }, [categories])
 
     useEffect(() => {
+        console.log(checkedCategories)
         setFilteredNews([...news.filter(article => {
             const articleCategories = article.categories.map(ele => ele.name)
 
@@ -62,12 +63,16 @@ const NewsCardSection = ({ news, setNews }) => {
                 }
             }
 
-            if (article.categories.length === 0) {
+            if (article.categories.length === 0 && checkedCategories.includes('*Uncategorized*')) {
                 return true
             }
             return false
         })])
     }, [checkedCategories])
+
+    useEffect(() => {
+        console.log(filteredNews)
+    }, [filteredNews])
 
     const handleBack = () => {
         if (currentPageNumber !== 1 || currentPageNumber > 1) {
