@@ -106,12 +106,15 @@ a:hover {
 
 }
 
-/* .button {
-  padding: 0.5rem 1rem;
-  margin: 0 2rem;
-  border-radius: 10px;
-  background-color: #61dafb;
-} */
+.searchForm {
+  background-color: transparent;
+  margin: 2rem 0;
+}
+
+.searchInput {
+  width: 240px;
+  font-size: 1.15rem;
+}
 
 .categories {
   color: azure;
