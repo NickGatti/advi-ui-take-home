@@ -6,38 +6,33 @@ const NewsCard = ({ article: {
     url = '',
     summary = '',
     imageUrl,
-} } ) => {
+    description = '',
+} }) => {
     const [reducedSummary, setReducedSummary] = useState(summary)
     const [reducedUrl, setReducedUrl] = useState(url)
+    const [reducedDescription, setReducedDescription] = useState(description)
 
     useEffect(() => {
         if (summary.length > 250) {
-            let newSummary = reducedSummary
-            setReducedSummary(newSummary.slice(0, 250) + '...')
+            setReducedSummary(summary.slice(0, 250) + '...')
+        }
+        if (description.length > 250) {
+            setReducedDescription(description.slice(0, 250) + '...')
         }
         if (url.length > 72) {
-            let newUrl = reducedUrl
-            setReducedUrl(newUrl.slice(0, 72) + '...')
+            setReducedUrl(url.slice(0, 72) + '...')
         }
-    }, [])
+    }, [title, url, imageUrl, summary, description])
 
-    /*
-    { 
-    addDate, articleId, authorsByline,
-    categories, claim, clusterId,
-    companies, content, country,
-    description, entities, imageUrl,
-    keywords, labels, language,
-    links, locations, matchedAuthors,
-    medium, people, places,
-    pubDate, refreshDate, reprint,
-    reprintGroupId, score, sentiment,
-    source, summary, title,
-    topics, translation, url,
-    verdict }
-    */
-    
-    //NOTE THESE: title, summary, url, sentiment (popularity), imageUrl, pubDate
+    const handleNullContent = () => {
+        if (summary.length === 0 && description.length === 0) {
+            return <p>Please visist site for more.</p>
+        } else if (summary.length === 0) {
+            return <p>{reducedDescription}</p>
+        } else {
+            return <p>{reducedSummary}</p>
+        }
+    }
 
     return (
         <div className='card'>
@@ -45,7 +40,7 @@ const NewsCard = ({ article: {
                 <div className='divider'>
                     <h4 className="cardTitle">{title}</h4>
                     <p className="cardDate">{new Date(pubDate).toString()}</p>
-                    {reducedSummary ? <p className="cardSummary">{reducedSummary}</p> : null}
+                    {handleNullContent()}
                     <a className="cardAnchor" href={url}>{reducedUrl}</a>
                 </div>
                 <img className='cardImage' src={imageUrl} alt={title} />

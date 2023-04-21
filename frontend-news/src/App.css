@@ -3,7 +3,7 @@
 }
 
 body {
-  margin: 0.5rem;
+  padding: 0.6rem;
   background-color: #202020;
 }
 
@@ -114,6 +114,7 @@ a:hover {
 .searchInput {
   width: 240px;
   font-size: 1.15rem;
+  height: 35px;
 }
 
 .categories {
