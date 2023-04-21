@@ -1,4 +1,6 @@
-The only 3 libraries and frameworks other than React were `create-react-app`, `Express` and `npm-watch`.
+Treating this project like an MVP, I focused on simplicity, speed of development and expandability.
+
+The only 3 libraries and frameworks used other than React were `create-react-app`, `Express` and `npm-watch`.
 
 Express was used because of its easy setup, static directory and easy routing.
 I used a backend to mimic a dev API.
