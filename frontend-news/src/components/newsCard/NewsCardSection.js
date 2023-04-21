@@ -16,16 +16,20 @@ const NewsCardSection = ({ news, setNews }) => {
     const [checkedCategories, setCheckedCategories] = useState([])
 
     useEffect(() => {
-        const categorieOutput = []
+        const categoryOutput = []
         for (let i = 0; i < news.length; i++) {
-            for (let z = 0; z < news[i].categories.length; z++) {
-                if (!categorieOutput.includes(news[i].categories[z].name)) {
-                    categorieOutput.push(news[i].categories[z].name)
+            if (news[i].categories.length === 0) {
+                categoryOutput.push('*uncategorized*')
+            } else {
+                for (let z = 0; z < news[i].categories.length; z++) {
+                    if (!categoryOutput.includes(news[i].categories[z].name)) {
+                        categoryOutput.push(news[i].categories[z].name)
+                    }
                 }
             }
         }
 
-        setCategories(categorieOutput)
+        setCategories(categoryOutput)
     }, [news])
 
     useEffect(() => {
