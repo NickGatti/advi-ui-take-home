@@ -1,5 +1,3 @@
-import { useState } from "react"
-
 import Category from "./Category"
 
 const Categories = ({categories, checkedCategories, setCheckedCategories}) => {

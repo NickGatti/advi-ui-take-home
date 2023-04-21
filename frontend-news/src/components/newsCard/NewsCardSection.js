@@ -53,7 +53,6 @@ const NewsCardSection = ({ news, setNews }) => {
     }, [categories])
 
     useEffect(() => {
-        console.log(checkedCategories)
         setFilteredNews([...news.filter(article => {
             const articleCategories = article.categories.map(ele => ele.name)
 
@@ -69,10 +68,6 @@ const NewsCardSection = ({ news, setNews }) => {
             return false
         })])
     }, [checkedCategories])
-
-    useEffect(() => {
-        console.log(filteredNews)
-    }, [filteredNews])
 
     const handleBack = () => {
         if (currentPageNumber !== 1 || currentPageNumber > 1) {
