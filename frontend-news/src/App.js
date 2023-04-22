@@ -11,8 +11,8 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('apple stock')
 
   // useEffect(() => {
-  //   //USE FOR DEV
-
+  //   //USE FOR DEV - Requires backend server running
+  //   //DO NOT USE THIS CODEBLOCK WITH NPM START in FRONTEND-NEWS
   //   fetch('dev/news')
   //     .then(res => res.json())
   //     .then(res => {
@@ -26,7 +26,6 @@ function App() {
   // }, [])
 
   useEffect(() => {
-    //SOLUTIONS.MD THEN SCHEDULE TIME
     fetch(`https://api.goperigon.com/v1/all?apiKey=3ed563b6-40ba-481c-a717-8a9fcae60c8f&q="${searchTerm}"`)
       .then(res => {
         return res.json()

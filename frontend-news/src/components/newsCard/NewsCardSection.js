@@ -67,7 +67,7 @@ const NewsCardSection = ({ news, setNews }) => {
             }
             return false
         })])
-    }, [checkedCategories])
+    }, [checkedCategories, news])
 
     const handleBack = () => {
         if (currentPageNumber !== 1 || currentPageNumber > 1) {
